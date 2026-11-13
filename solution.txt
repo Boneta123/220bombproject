@@ -4,4 +4,4 @@ a 3
 40 0 0 0 
 jdoefg
 1 5 4 3 6 2
-5
+BGM PIT BAL PHL UTI BGM
